@@ -314,15 +314,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -28.865622
+      value: -29.699986
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.000008821487
+      value: -0.0000021457672
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.18866217
+      value: -0.0000013113022
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
       propertyPath: m_LocalRotation.w
@@ -352,6 +352,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fc06e4edccdc1774eaa30f72e86e4f80, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a118982a12a4e5de9bb67f40279b001, type: 3}
       propertyPath: m_Name
       value: module_end_d
@@ -463,15 +467,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.9567084
+      value: 3.096285
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1147085
+      value: -0.0000044479966
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.66669166
+      value: 0.016687036
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -501,6 +505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fc06e4edccdc1774eaa30f72e86e4f80, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ef4d88dd9fdd7313b39196175fb8da9, type: 3}
       propertyPath: m_Name
       value: module_end_b
